@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.004" height="46.086" viewBox="0 0 42.004 46.086">
+  <g id="_1" data-name="1" transform="translate(-4411 3645.086)">
+    <path id="Union_7" data-name="Union 7" d="M4.117,44.485H4v0a4.2,4.2,0,0,1-4-4.2v-33a1.2,1.2,0,0,1,1.2-1.2H8.387V0H40.4V14.114H40.4V44.485H4.117Z" transform="translate(4411.8 -3644.286)" fill="none" stroke="#e50012" stroke-width="1.6"/>
+    <g id="Rectangle_188" data-name="Rectangle 188" transform="translate(4424 -3626)" fill="none" stroke="#e50012" stroke-width="1.6">
+      <rect width="12" height="9" stroke="none"/>
+      <rect x="0.8" y="0.8" width="10.4" height="7.4" fill="none"/>
+    </g>
+    <g id="Rectangle_189" data-name="Rectangle 189" transform="translate(4424 -3641)" fill="none" stroke="#e50012" stroke-width="1.6">
+      <rect width="25" height="12" stroke="none"/>
+      <rect x="0.8" y="0.8" width="23.4" height="10.4" fill="none"/>
+    </g>
+    <line id="Line_14" data-name="Line 14" x2="9" transform="translate(4439.5 -3625.5)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-width="1.6"/>
+    <line id="Line_17" data-name="Line 17" x2="23.628" transform="translate(4424.872 -3613.5)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-width="1.6"/>
+    <line id="Line_15" data-name="Line 15" x2="9" transform="translate(4439.5 -3621.5)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-width="1.6"/>
+    <line id="Line_18" data-name="Line 18" x2="23.628" transform="translate(4424.872 -3609.5)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-width="1.6"/>
+    <line id="Line_16" data-name="Line 16" x2="9" transform="translate(4439.5 -3617.5)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-width="1.6"/>
+    <line id="Line_19" data-name="Line 19" x2="23.628" transform="translate(4424.872 -3605.5)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-width="1.6"/>
+    <path id="Rectangle_266" data-name="Rectangle 266" d="M1.2,0H8.4a0,0,0,0,1,0,0V34.2a4.2,4.2,0,0,1-4.2,4.2h0A4.2,4.2,0,0,1,0,34.2V1.2A1.2,1.2,0,0,1,1.2,0Z" transform="translate(4411.8 -3638.2)" fill="none" stroke="#e50012" stroke-width="1.6"/>
+  </g>
+</svg>

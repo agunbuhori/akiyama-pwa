@@ -1,0 +1,79 @@
+<div class="wrapper">
+    <header>
+        <div class="navbar">
+            <!-- <i class="material-icons">
+                account_circle
+            </i> -->
+            <img src="assets/logo.png"/>
+            <!-- <i class="material-icons">
+                settings
+            </i> -->
+        </div>
+        <div class="slider">
+            <div class="banner">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="swiper-item">
+                            <img src="assets/banner/slide01.png"/>
+                        </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <div class="swiper-item">
+                            <img src="assets/banner/slide02.png"/>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="swiper-item">
+                            <img src="assets/banner/slide03.png"/>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="swiper-button-prev">
+                <i class="material-icons">
+                    navigate_before
+                </i>
+            </div>
+            <div class="swiper-button-next">
+                <i class="material-icons">
+                    navigate_next
+                </i>
+            </div>
+        </div>
+
+        <div class="blank"></div>
+    </header>
+    
+    <main class="swiper-container">
+
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="swiper-item">
+                    <a href="/" *ngFor="let menu of menus; let i = index">
+                        <div class="icon">
+                            <img [src]="'assets/icon/'+(i+1)+'.svg'"/>
+                        </div>
+                        <span>{{ menu.title }}</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="swiper-slide">
+                <div class="swiper-item">
+                    <a href="/" *ngFor="let menu of menus; let i = index">
+                        <div class="icon">
+                            <img [src]="'assets/icon/'+(i+1)+'.svg'"/>
+                        </div>
+                        <span>{{ menu.title }}</span>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="swiper-pagination"></div>
+    </main>
+</div>

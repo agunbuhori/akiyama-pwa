@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.372" height="37.939" viewBox="0 0 47.372 37.939">
+  <g id="_6" data-name="6" transform="translate(-4632.687 3504.422)">
+    <g id="Rectangle_178" data-name="Rectangle 178" transform="matrix(0.574, 0.819, -0.819, 0.574, 4663.176, -3494.735)" fill="none" stroke="#e50012" stroke-width="1.6">
+      <rect width="8" height="24" stroke="none"/>
+      <rect x="0.8" y="0.8" width="6.4" height="22.4" fill="none"/>
+    </g>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M6.873,13.095A6.874,6.874,0,0,1,3.95,0V4.858L6.9,7.531,9.853,4.858V.027a6.874,6.874,0,0,1-2.98,13.068Z" transform="matrix(0.574, 0.819, -0.819, 0.574, 4671.061, -3503.308)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M5.873,0A5.855,5.855,0,0,0,0,5.824a5.765,5.765,0,0,0,.94,3.16,5.87,5.87,0,0,0,2.435,2.111V6.979L5.9,4.715,8.419,6.979v4.093a5.872,5.872,0,0,0,2.4-2.11,5.766,5.766,0,0,0,.925-3.138A5.855,5.855,0,0,0,5.873,0Z" transform="matrix(0.574, 0.819, -0.819, 0.574, 4642.89, -3483.582)" fill="none" stroke="#e50012" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>
